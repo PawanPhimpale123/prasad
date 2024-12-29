@@ -1,5 +1,6 @@
 class sanjivani{
   public static void main(String[]args){
-    System.out.println("hello i am prasad");
+    int a=10+20;
+    System.out.println("sum="+a);
   }
 }
